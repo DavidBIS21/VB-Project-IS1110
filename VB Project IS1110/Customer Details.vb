@@ -65,8 +65,8 @@
                     End If
                 End If
                 If IsValid = False Then
-                    errorMessageCustomer = ("Please Enter a Valid Passport Number, must be 7 numbers followed by a Letter")
-                    Throw New System.Exception("An exception has occured")
+                    errorMessageCustomer = ("Please Enter a Valid Password please , must be 7 numbers followed by a Letter")
+                    Throw New System.Exception("An exception has occured") 'test git commit
                 End If
                 CharLoop = CharLoop + 1
             Next
