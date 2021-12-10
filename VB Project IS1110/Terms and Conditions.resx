@@ -1,0 +1,87 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="BackgroundWorker1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="RichTextBox1.Text" xml:space="preserve">
+    <value>The Collision Damage Waiver (CDW) option limits your financial liability for damage to the Speedy TM 
+vehicle, its parts and accessories, except theft, attempted theft or vandalism, provided the vehicle is used in 
+accordance with the terms and conditions of the rental agreement.
+ 
+If CDW is declined, you will be responsible for damage up to the full value of the vehicle, ranging from 
+EUR 15,000.00 (including tax) to EUR 55,000.00 (including tax) depending on the vehicle rented. 
+ 
+If you decide not to purchase CDW, you will be required to provide a security of EUR 2,000.00 at the 
+commencement of the rental using your credit card. This amount will be used towards any damage to the 
+rented vehicle.
+ 
+The Theft Protection (TP) option limits your financial liability, subject to the terms of the rental 
+agreement, for loss or theft of the VBDealz TM vehicle, its parts and accessories, provided the vehicle is 
+used in accordance with the terms and conditions of the rental agreement.
+ 
+If TP is declined, you will be responsible for the cost of repairing or replacing the VBDealz TM vehicle lost 
+or damaged, following theft, attempted theft or vandalism up to the full value of the vehicle, ranging from 
+EUR 15,000.00 (including tax) to EUR 55,000.00 (including tax) depending on the vehicle rented. 
+ 
+If you decide not to purchase TP, you will be required to provide a security of EUR 2,000.00 at the 
+commencement of the rental using your credit card. This amount will be used towards the loss of the rented 
+vehicle.</value>
+  </data>
+</root>
